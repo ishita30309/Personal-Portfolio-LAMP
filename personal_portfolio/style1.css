@@ -1,0 +1,38 @@
+button {
+    background-color: purple;
+    border-radius: 5px;
+}
+
+a {
+    color: purple;
+}
+
+h3 {
+    text-align: center;
+}
+h5
+{
+    color:orange;
+}
+
+#qwer {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-left: 200px;
+    width: 300px;
+    background-color: white;
+}
+
+h1 {
+    color: #ff0066;
+    background-color: #ffff99;
+    text-align: center;
+}
+
+body {
+    background-color: #ffe6ff;
+}
+
+h2 {
+    margin-top: 80px;
+}
